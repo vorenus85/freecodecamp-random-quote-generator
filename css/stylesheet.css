@@ -1,0 +1,30 @@
+.app-body {
+    background-color: #333;
+}
+
+.quote-item-tite {
+    font-size: 16px;
+    font-weight:bold;
+    font-family: "Playfair Display",sans-serif;
+}
+
+.quote-item-author {
+    font-style: italic;
+    padding-top: 20px;
+    font-family: "Playfair Display",sans-serif;
+}
+
+.quote-item-inner {
+    min-height: 120px;
+}
+
+#quote-container {
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 3px;
+    margin-top:60px;
+    padding: 20px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+}
